@@ -1413,11 +1413,12 @@ section> :last-child, article> :last-child, section:last-child, article:last-chi
 }
 .image.fit2 {
     top: 10;
-    left: 10;
+    left: 20;
     display: block;
     width: 92%;
     height: 92%;
     overflow: hidden;
+    float: center;
     align-content: center;
 }
 .image.featured {
