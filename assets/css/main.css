@@ -1411,7 +1411,10 @@ section> :last-child, article> :last-child, section:last-child, article:last-chi
     display: block;
     width: 100%;
 }
-
+.image.fit2 {
+    display: block;
+    width: 80%;
+}
 .image.featured {
     display: block;
     width: 100%;
