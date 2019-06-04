@@ -1791,7 +1791,7 @@ ul.actions li:first-child {
     width: 100%;
     z-index: 10000;
     cursor: default;
-    height: 7em;
+    height: 3.5em;
     line-height: 3.5em;
     max-width: 100%;
 }
@@ -2079,8 +2079,8 @@ body>article {
     }
     /* Nav */
     #nav {
-        height: 880px;
-        line-height: 440px;
+        height: 44px;
+        line-height: 44px;
     }
     #nav a {
         padding: 0 0.75em;
