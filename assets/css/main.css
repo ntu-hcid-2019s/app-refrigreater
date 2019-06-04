@@ -1666,7 +1666,12 @@ input, select, textarea {
 			width: 100%;
 			margin: 0 0 2em 0;
 		}
-
+		.image.featured2 {
+			display: block;
+			align-items: center;
+			width: 90%;
+			margin: 0 0 2em 0;
+		}
 		.image.left {
 			float: left;
 			margin: 0 2em 2em 0;
